@@ -9,8 +9,7 @@
 - 📫 How to reach me: LinkedIn Profile: https://www.linkedin.com/in/maynul-hassan-nissan/
 
 - 😄 Pronouns: He/Him
-
-- ⚡ Fun fact: I have a cat named TURTUR who keeps me company while I code.
+  
 
 <!---
 NISSAN40499/NISSAN40499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
