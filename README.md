@@ -1,14 +1,16 @@
-- 👋 Hi, I’m Maynul Hassan Nissan
+- Hi, I’m Maynul Hassan Nissan
 
-- 👀 I’m interested in Data Analysis, Data Aggregation, Data Cleaning, Automation, Reporting and Visualization, Dashboard Making, etc.
+- I’m interested in Data Analysis, Data Aggregation, Data Cleaning, Automation, Reporting and Visualization, Dashboard Making, etc.
 
-- 🌱 I’m currently learning in-depth Python, SQL (web SQL, MySQL, Oracle), Excel, Google sheets, Power BI, and Looker. I’m also taking the Google Data Analytics course and hold a Business Analytics with Excel - Elementary to Advanced certificate from Johns Hopkins University. Additionally, I’m attending a BI Analytics bootcamp by Grad Bunker Akaademy, where I’m the top performer.
+- I’m currently learning in-depth Python, SQL (web SQL, MySQL, Oracle), Excel, Google sheets, Power BI, and Looker. I’m also taking the Google Data Analytics course and hold a Business Analytics with Excel - Elementary to Advanced certificate from Johns Hopkins University. Additionally, I’m attending a BI Analytics bootcamp by Grad Bunker Akaademy, where I’m the top performer.
 
-- 💞️ I’m looking to collaborate on data analysis, business analytics, and business intelligence analytics projects that involve data aggregation, data cleaning, visualization, automation, etc.
+- I’m looking to collaborate on data analysis, business analytics, and business intelligence analytics projects that involve data aggregation, data cleaning, visualization, automation, etc.
 
-- 📫 How to reach me: LinkedIn Profile: https://www.linkedin.com/in/maynul-hassan-nissan/
+- How to reach me: LinkedIn Profile: https://www.linkedin.com/in/maynul-hassan-nissan/
 
-- 😄 Pronouns: He/Him
+- My Portfolio: https://codebasics.io/portfolio/Maynul-Hassan-Nissan
+  
+- Pronouns: He/Him
   
 
 <!---
