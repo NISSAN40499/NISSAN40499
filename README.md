@@ -1,17 +1,66 @@
-- Hi, I’m Maynul Hassan Nissan
+## 👋 Hi, I’m Maynul Hassan Nissan (aka Nissan40499)
 
-- I’m interested in Data Analysis, Data Aggregation, Data Cleaning, Automation, Reporting and Visualization, Dashboard Making, etc.
+🎯 **Aspiring Triple Threat**: Data Analyst · Machine Learning Enthusiast · Future Cybersecurity Pro
 
-- I’m currently learning in-depth Python, SQL (web SQL, MySQL, Oracle), Excel, Google sheets, Power BI, and Looker. I’m also taking the Google Data Analytics course and hold a Business Analytics with Excel - Elementary to Advanced certificate from Johns Hopkins University. Additionally, I’m attending a BI Analytics bootcamp by Grad Bunker Akaademy, where I’m the top performer.
+---
 
-- I’m looking to collaborate on data analysis, business analytics, and business intelligence analytics projects that involve data aggregation, data cleaning, visualization, automation, etc.
+### 🚀 About Me
+I'm passionate about all things data — from cleaning it, analyzing it, automating it, to building sleek dashboards that make insights pop. But I don’t stop there. I’m also on the grind to become a top-tier **penetration tester** and a skilled **ML engineer** 
 
-- How to reach me: LinkedIn Profile: https://www.linkedin.com/in/maynul-hassan-nissan/
+---
 
-- My Portfolio: https://codebasics.io/portfolio/Maynul-Hassan-Nissan
-  
-- Pronouns: He/Him
-  
+### 📚 Currently Learning & Growing
+- 🔢 **In-depth Tools**: Python · SQL (MySQL, Oracle, Web SQL) · DAX · Statistics  
+- 📊 **BI & Visualization**: Excel · Google Sheets · Power BI · Looker  
+- 🤖 **ML & Stats**: Statistical ML · Deep Learning · Image Processing · LLMs  
+- 🛡️ **Cybersecurity**: Hacking 101 & Advanced Web Pentesting from Byte Capsule · TryHackMe · Bug Bounty Hunting  
+- 🔍 **CS Fundamentals**: LeetCode · Data Structures & Algorithms
+
+---
+
+### 🏆 Courses & Achievements
+- 🎓 **Top Performer**: BI Analytics Bootcamp by Grad Bunker Akaademy  
+- 📈 **Current Student**: Data Analyst 4.0 Bootcamp by Codebasics  
+- 🏅 Certified: Business Analytics with Excel (Johns Hopkins University)  
+- 📘 left: Google Data Analytics Certification course
+- 🧠 Active Learner at Byte Capsule & TryHackMe
+
+---
+
+### 🧠 Goals (Apr 2023 – Apr 2027)
+- 🥇 Win at least **1x** each: Codebasics Challenge · Onix Data Challenge · ZoomCharts  
+- 💼 Secure a **High paying job** as a DA and a remote cybersecurity gig  
+- 🧪 Build **30+ real-world data projects**, and **10+ ML projects**  
+- 🎯 Reach **LeetCode Top 1%**  
+- 🐱‍💻 Earn **$20,000+** through Bug Bounty platforms  
+- 🛡️ Become a **certified Pentester** (CCNA / CSCP / other)  
+- 💪 Rock a six-pack while rocking dashboards  
+
+---
+
+### 🤝 Let’s Collaborate
+Looking for collaborators on:
+- Data Analysis & BI Development Projects  
+- ML Model Development and Statistical Research  
+- Ethical Hacking & Cybersecurity Labs  
+- Leetcode / CTF / TryHackMe group challenges
+
+---
+
+### 🔗 Links
+- 📫 **LinkedIn**: [Maynul Hassan Nissan](https://www.linkedin.com/in/maynul-hassan-nissan/)  
+- 🌐 **Portfolio**: [My Codebasics Profile](https://codebasics.io/portfolio/Maynul-Hassan-Nissan)
+
+---
+
+### ⚙️ Tech Stack Highlights
+`Python` · `SQL` · `Power BI` · `DAX` · `Excel` · `Looker` · `Matplotlib` · `Seaborn` · `Pandas` · `NumPy`  
+`Linux` · `GitHub` · `TryHackMe` · `Burp Suite` · `Wireshark` · `CTF Tools`
+
+---
+
+**Pronouns**: He/Him  
+🧿 *Focused. Fast. Fearless.*
 
 <!---
 NISSAN40499/NISSAN40499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
