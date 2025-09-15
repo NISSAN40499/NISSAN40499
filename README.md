@@ -34,7 +34,7 @@ I'm passionate about all things data — from cleaning it, analyzing it, automat
 - 🎯 Reach **LeetCode Top 1%**  
 - 🐱‍💻 Earn **$20,000+** through Bug Bounty platforms  
 - 🛡️ Become a **certified Pentester** (CCNA / CSCP / other)  
-- 💪 Rock a six-pack while rocking dashboards  
+- 💪 Rock a good physic while rocking dashboards  
 
 ---
 
