@@ -10,17 +10,17 @@ I'm passionate about all things data — from cleaning it, analyzing it, automat
 ---
 
 ### 📚 Currently Learning & Growing
-- 🔢 **In-depth Tools**: Python · SQL (MySQL, Oracle, Web SQL) · DAX · Statistics  
+- 🔢 **In-depth Tools**: Python · SQL (MySQL, Oracle, Web SQL) · DAX · Statistics  · bash 
 - 📊 **BI & Visualization**: Excel · Google Sheets · Power BI · Looker  
-- 🤖 **ML & Stats**: Statistical ML · Deep Learning · Image Processing · LLMs  
-- 🛡️ **Cybersecurity**: Hacking 101 & Advanced Web Pentesting from Byte Capsule · TryHackMe · Bug Bounty Hunting  
-- 🔍 **CS Fundamentals**: LeetCode · Data Structures & Algorithms
+- 🤖 **ML & Stats**: Statistical ML 
+- 🛡️ **Cybersecurity**: Hacking 101 & Advanced Web Application Security & Pentesting from Byte Capsule · TryHackMe · · Web Security Academy · Bug Bounty Hunting  
+- 🔍 **CS Fundamentals**: Data Structures & Algorithms
 
 ---
 
 ### 🏆 Courses & Achievements
 - 🎓 **Top Performer**: BI Analytics Bootcamp by Grad Bunker Akaademy  
-- 📈 **Current Student**: Data Analyst 4.0 Bootcamp by Codebasics  
+- 📈 **Current Student**: Data Analyst 5.0 Bootcamp by Codebasics  
 - 🏅 Certified: Business Analytics with Excel (Johns Hopkins University)  
 - 📘 left: Google Data Analytics Certification course
 - 🧠 Active Learner at Byte Capsule & TryHackMe
@@ -31,7 +31,6 @@ I'm passionate about all things data — from cleaning it, analyzing it, automat
 - 🥇 Win at least **1x** each: Codebasics Challenge · Onix Data Challenge · ZoomCharts  
 - 💼 Secure a **High paying job** as a DA and a remote cybersecurity gig  
 - 🧪 Build **30+ real-world data projects**, and **10+ ML projects**  
-- 🎯 Reach **LeetCode Top 1%**  
 - 🐱‍💻 Earn **$20,000+** through Bug Bounty platforms  
 - 🛡️ Become a **certified Pentester** (CCNA / CSCP / other)  
 - 💪 Rock a good physic while rocking dashboards  
