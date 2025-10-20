@@ -5,7 +5,7 @@
 ---
 
 ### About Me
-I'm passionate about all things data — from cleaning it, analyzing it, automating it, to building sleek dashboards that make insights pop. But I don’t stop there. I’m also on the grind to become a top-tier **penetration tester** and a skilled **ML engineer** 
+I'm passionate about all things data — from cleaning it, analyzing it, automating it, to building sleek dashboards that make insights pop. But I don’t stop there. I’m also on the grind to become a top-tier **penetration tester** 
 
 ---
 
