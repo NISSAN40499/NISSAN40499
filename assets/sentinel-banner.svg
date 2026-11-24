@@ -1,0 +1,46 @@
+<svg width="900" height="250" viewBox="0 0 900 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#1E293B" stroke-width="0.7" opacity="0.55" />
+    </pattern>
+    <linearGradient id="sentinelLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D2FF" />
+      <stop offset="100%" stop-color="#10B981" />
+    </linearGradient>
+    <style>
+      .mono { font-family: 'Fira Code', 'Courier New', monospace; }
+      .pulse { animation: pulse 2.8s ease-in-out infinite; }
+      .spin { transform-origin: 790px 125px; animation: spin 22s linear infinite; }
+      @keyframes pulse { 0%, 100% { opacity: 0.45; } 50% { opacity: 1; } }
+      @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    </style>
+  </defs>
+
+  
+  <rect width="900" height="250" rx="14" fill="#05080F" stroke="#1E293B" stroke-width="1.5" />
+  <rect width="900" height="250" rx="14" fill="url(#grid)" />
+
+  
+  <rect x="0" y="0" width="900" height="3" rx="2" fill="url(#sentinelLine)" />
+
+  
+  <circle cx="46" cy="36" r="4" fill="#10B981" class="pulse" />
+  <text x="60" y="40" class="mono" fill="#00D2FF" font-size="11" letter-spacing="2.5">NODE ACTIVE // X_SEKIGAN  •  DARK_LEMUR</text>
+  <text x="855" y="40" class="mono" fill="#64748B" font-size="11" text-anchor="end">DHAKA, BD [UTC+6]</text>
+
+  
+  <text x="42" y="96" class="mono" fill="#F8FAFC" font-size="36" font-weight="bold" letter-spacing="1.5">MAYNUL HASSAN NISSAN</text>
+  <text x="42" y="130" class="mono" fill="#10B981" font-size="15" font-weight="bold">IT &amp; Cybersecurity Analyst  |  Cybersecurity Solution Lead</text>
+  <text x="42" y="156" class="mono" fill="#94A3B8" font-size="13">Offensive Security  •  White-Box Pentesting  •  SecOps &amp; MSSP Architecture</text>
+
+  
+  <line x1="42" y1="182" x2="680" y2="182" stroke="#1E293B" stroke-width="1" />
+  <text x="42" y="212" class="mono" fill="#00D2FF" font-size="13">"Precision over haste, mastery over speed."</text>
+  <text x="680" y="212" class="mono" fill="#10B981" font-size="12" text-anchor="end">[ CLICK TO LAUNCH LIVE PORTFOLIO ↗ ]</text>
+
+  
+  <circle cx="790" cy="125" r="72" stroke="#1E293B" stroke-width="1.5" stroke-dasharray="5 5" class="spin" />
+  <circle cx="790" cy="125" r="52" stroke="#00D2FF" stroke-width="1" opacity="0.45" />
+  <circle cx="790" cy="125" r="30" stroke="#10B981" stroke-width="1" opacity="0.6" />
+  <circle cx="790" cy="125" r="4" fill="#00D2FF" class="pulse" />
+</svg>
